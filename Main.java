@@ -24,6 +24,11 @@ public class Main {
 
             Story.NEWGAMESETTINGS();
 
+            Story.makeChoices();
+        TimeUnit.SECONDS.sleep(2);
+
+                Story.actions();
+
 
 
 
